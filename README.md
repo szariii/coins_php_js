@@ -14,4 +14,4 @@ You can change:
 
 <h2>Screen shots:</h2>
 <img src="./img/img1.JPG">
-<img src="./img/img2.JPG">
+<img src="./img/img2.jpg">
